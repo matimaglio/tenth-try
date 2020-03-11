@@ -1,0 +1,143 @@
+*{
+	box-sizing: border-box;
+}
+header {
+	background-color: #a80000;
+	color: white;
+	font-family: Lato;
+	padding: 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+header a {
+	color: white;
+	text-decoration: none;
+}
+li {
+	list-style: none;
+	padding-left: 10px;
+}
+.indie{
+	font-family: IndieFlower;
+	font-size: 36px;
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+.profile {
+	width: 450px;
+	background: rgba(0,0,0, 0.4);
+	padding: 40px;
+	text-align: center;
+	margin: auto;
+	margin-top: 5%;
+	color: white;
+	font-family: Josefin Sans;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.profile-img {
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
+.profile h1 {
+	font-size: 40px;
+	letter-spacing: 4px;
+	font-weight: 100;
+}
+.profile h5 {
+	font-size: 25px;
+	letter-spacing: 3px;
+}
+.albums {
+	background-color: #a80000;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding-top: 15px;
+}
+.albums p {
+	font-family: IndieFlower;
+	color: white;
+	justify-content: space-around;
+	align-items: ;
+}
+.merch {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	padding-top: 15px;
+}
+.merch div {
+	text-align: center;
+}
+.merch p {
+	font-family: IndieFlower;
+	color: #001427;
+}
+#price {
+	font-family: Lato;
+}
+.copyright {
+	display: flex;
+	justify-content: center;
+	font-family: Lato;
+}
+.tour {
+	width: 450px;
+	background-color: #a80000;
+	padding: 40px;
+	text-align: center;
+	margin: auto;
+	margin-top: 5%;
+	color: white;
+	font-family: Josefin Sans;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.yay {
+	font-family: IndieFlower;
+	font-size: 35px;
+}
+label {
+	font-family: IndieFlower;
+	font-size: 20px;
+	text-decoration: underline;
+}
+.contact {
+	font-family: IndieFlower;
+	font-size: 25px;
+}
+.footer{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+}
+.media{
+	display: flex;
+	justify-content: space-around;
+}
+.copy {
+	display: flex;
+	justify-content: center;
+}
+#copyright {
+	color: #a80000;
+	font-family: Lato;
+}
+html {
+	scroll-behavior: smooth;
+}
+
+
+
+
+
+
+
+
